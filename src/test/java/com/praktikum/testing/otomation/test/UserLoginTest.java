@@ -1,5 +1,6 @@
 package com.praktikum.testing.otomation.test;
 
+<<<<<<< HEAD
 import com.aventstack.extentreports.Status;
 import com.praktikum.testing.otomation.pages.HomePage;
 import com.praktikum.testing.otomation.pages.LoginPage;
@@ -198,3 +199,7 @@ public class UserLoginTest extends BaseTest {
         test.log(Status.INFO, "Logout untuk bersih-bersih");
     }
 }
+=======
+public class UserLoginTest {
+}
+>>>>>>> a393be969d02ea7452e2ae26765520e8ca3ad0d7

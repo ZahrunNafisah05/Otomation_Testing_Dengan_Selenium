@@ -1,5 +1,6 @@
 package com.praktikum.testing.otomation.test.demo;
 
+<<<<<<< HEAD
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -165,3 +166,7 @@ public class LocatorStrategiesDemo {
         }
     }
 }
+=======
+public class LocatorStrategiesDemo {
+}
+>>>>>>> a393be969d02ea7452e2ae26765520e8ca3ad0d7

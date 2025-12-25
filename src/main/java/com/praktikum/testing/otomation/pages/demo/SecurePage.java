@@ -1,5 +1,6 @@
 package com.praktikum.testing.otomation.pages.demo;
 
+<<<<<<< HEAD
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -57,3 +58,7 @@ public class SecurePage {
         return driver.getCurrentUrl().contains("/secure");
     }
 }
+=======
+public class SecurePage {
+}
+>>>>>>> a393be969d02ea7452e2ae26765520e8ca3ad0d7

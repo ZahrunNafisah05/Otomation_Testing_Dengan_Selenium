@@ -1,5 +1,6 @@
 package com.praktikum.testing.otomation.test.demo;
 
+<<<<<<< HEAD
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -42,3 +43,7 @@ public class SetupVerificationTest {
         }
     }
 }
+=======
+public class SetupVerificationTest {
+}
+>>>>>>> a393be969d02ea7452e2ae26765520e8ca3ad0d7

@@ -1,5 +1,6 @@
 package com.praktikum.testing.otomation.test;
 
+<<<<<<< HEAD
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
@@ -76,3 +77,7 @@ public class BaseTest {
         System.out.println("Report generated: test-output/ExtentReport.html\n");
     }
 }
+=======
+public class BaseTest {
+}
+>>>>>>> a393be969d02ea7452e2ae26765520e8ca3ad0d7

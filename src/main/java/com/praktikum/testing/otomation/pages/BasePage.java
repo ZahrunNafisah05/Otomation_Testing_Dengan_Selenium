@@ -1,5 +1,6 @@
 package com.praktikum.testing.otomation.pages;
 
+<<<<<<< HEAD
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
@@ -84,3 +85,7 @@ public class BasePage {
         return isDisplayed(element);
     }
 }
+=======
+public class BasePage {
+}
+>>>>>>> a393be969d02ea7452e2ae26765520e8ca3ad0d7

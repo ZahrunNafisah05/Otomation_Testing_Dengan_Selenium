@@ -1,5 +1,6 @@
 package com.praktikum.testing.otomation.pages;
 
+<<<<<<< HEAD
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -147,3 +148,7 @@ public class HomePage extends BasePage {
         click(logoutLink);
     }
 }
+=======
+public class HomePage {
+}
+>>>>>>> a393be969d02ea7452e2ae26765520e8ca3ad0d7

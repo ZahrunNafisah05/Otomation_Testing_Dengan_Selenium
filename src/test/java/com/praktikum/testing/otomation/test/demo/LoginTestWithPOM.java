@@ -1,5 +1,6 @@
 package com.praktikum.testing.otomation.test.demo;
 
+<<<<<<< HEAD
 import com.praktikum.testing.otomation.pages.demo.LoginPage;
 import com.praktikum.testing.otomation.pages.demo.SecurePage;
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -144,3 +145,7 @@ public class LoginTestWithPOM {
         }
     }
 }
+=======
+public class LoginTestWithPOM {
+}
+>>>>>>> a393be969d02ea7452e2ae26765520e8ca3ad0d7
