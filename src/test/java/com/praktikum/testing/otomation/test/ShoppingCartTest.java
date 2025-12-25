@@ -1,6 +1,5 @@
 package com.praktikum.testing.otomation.test;
 
-<<<<<<< HEAD
 import com.aventstack.extentreports.Status;
 import com.praktikum.testing.otomation.pages.CartPage;
 import com.praktikum.testing.otomation.pages.HomePage;
@@ -284,7 +283,3 @@ public class ShoppingCartTest extends BaseTest {
         test.log(Status.INFO, "Bersih-bersih - hapus item dari cart");
     }
 }
-=======
-public class ShoppingCartTest {
-}
->>>>>>> a393be969d02ea7452e2ae26765520e8ca3ad0d7

@@ -76,7 +76,3 @@ public class BaseTest {
         System.out.println("Report generated: test-output/ExtentReport.html\n");
     }
 }
-=======
-public class BaseTest {
-}
->>>>>>> a393be969d02ea7452e2ae26765520e8ca3ad0d7
