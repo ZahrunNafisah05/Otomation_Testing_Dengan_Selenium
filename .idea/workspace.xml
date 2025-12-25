@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6de13bc3-be62-435e-9792-ec6ecaeaf397" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/praktikum/testing/otomation/Utils/ExtentReportManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/praktikum/testing/otomation/Utils/ExtentReportManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/praktikum/testing/otomation/Utils/ScreenshotUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/praktikum/testing/otomation/Utils/ScreenshotUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/praktikum/testing/otomation/Utils/TestDataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/praktikum/testing/otomation/Utils/TestDataGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/ExtentReport.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ZahrunNafisah05"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ZahrunNafisah05/Otomation_Testing_Dengan_Selenium.git",
+    "accountId": "6534110b-7cf8-43c9-a838-76b8a2002c6c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="37L0EgTDJWRYesrRypwXUou9KJn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.AlertHandlingDemo.executor": "Run",
+    "TestNG.CheckoutProcessTest.executor": "Run",
+    "TestNG.DemoWebShopRegistrationTest.executor": "Run",
+    "TestNG.FormInteractionDemo.executor": "Run",
+    "TestNG.JavaScriptExecutorDemo.executor": "Run",
+    "TestNG.LocatorStrategiesDemo.executor": "Run",
+    "TestNG.LoginTestWithPOM.executor": "Run",
+    "TestNG.NavigationAndWindowDemo.executor": "Run",
+    "TestNG.ProductDetailsTest.executor": "Run",
+    "TestNG.ProductSearchTest.executor": "Run",
+    "TestNG.ShoppingCartTest.executor": "Run",
+    "TestNG.UserLoginTest.executor": "Run",
+    "TestNG.WaitStrategiesDemo.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/PNC/PPL/Otomation_Testing_Dengan_Selenium"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.UserLoginTest">
+    <configuration name="DemoWebShopRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OtomationTestingDenganSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.praktikum.testing.otomation.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.praktikum.testing.otomation.test" />
+      <option name="MAIN_CLASS_NAME" value="com.praktikum.testing.otomation.test.DemoWebShopRegistrationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductDetailsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OtomationTestingDenganSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.praktikum.testing.otomation.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.praktikum.testing.otomation.test" />
+      <option name="MAIN_CLASS_NAME" value="com.praktikum.testing.otomation.test.ProductDetailsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductSearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OtomationTestingDenganSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.praktikum.testing.otomation.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.praktikum.testing.otomation.test" />
+      <option name="MAIN_CLASS_NAME" value="com.praktikum.testing.otomation.test.ProductSearchTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OtomationTestingDenganSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.praktikum.testing.otomation.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.praktikum.testing.otomation.test" />
+      <option name="MAIN_CLASS_NAME" value="com.praktikum.testing.otomation.test.ShoppingCartTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OtomationTestingDenganSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.praktikum.testing.otomation.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.praktikum.testing.otomation.test" />
+      <option name="MAIN_CLASS_NAME" value="com.praktikum.testing.otomation.test.UserLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UserLoginTest" />
+        <item itemvalue="TestNG.ShoppingCartTest" />
+        <item itemvalue="TestNG.ProductSearchTest" />
+        <item itemvalue="TestNG.ProductDetailsTest" />
+        <item itemvalue="TestNG.DemoWebShopRegistrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6de13bc3-be62-435e-9792-ec6ecaeaf397" name="Changes" comment="" />
+      <created>1766666934056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766666934056</updated>
+    </task>
+    <servers />
+  </component>
+</project>
